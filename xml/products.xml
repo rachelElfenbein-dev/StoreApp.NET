@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <id>5900</id>
+    <name>מקרר</name>
+    <category>ElectricProducts</category>
+    <price>5000</price>
+    <quantity>50</quantity>
+  </Product>
+  <Product>
+    <id>6000</id>
+    <name>מיטת תינוק</name>
+    <category>BedroomFurniture</category>
+    <price>700</price>
+    <quantity>100</quantity>
+  </Product>
+  <Product>
+    <id>6100</id>
+    <name>סיר</name>
+    <category>Kitchenware</category>
+    <price>500</price>
+    <quantity>500</quantity>
+  </Product>
+  <Product>
+    <id>6200</id>
+    <name>ערסל ביצה</name>
+    <category>Garden</category>
+    <price>700</price>
+    <quantity>25</quantity>
+  </Product>
+  <Product>
+    <id>6300</id>
+    <name>ספה פינתית</name>
+    <category>LivingRoomFurniture</category>
+    <price>7000</price>
+    <quantity>30</quantity>
+  </Product>
+  <Product>
+    <id>5600</id>
+    <name>ערסל ביצה</name>
+    <category>Garden</category>
+    <price>700</price>
+    <quantity>24</quantity>
+  </Product>
+  <Product>
+    <id>5600</id>
+    <name>ערסל ביצה</name>
+    <category>Garden</category>
+    <price>700</price>
+    <quantity>24</quantity>
+  </Product>
+  <Product>
+    <id>5800</id>
+    <name>תנור</name>
+    <category>ElectricProducts</category>
+    <price>5000</price>
+    <quantity>49</quantity>
+  </Product>
+  <Product>
+    <id>6400</id>
+    <name />
+    <category>Kitchenware</category>
+    <price>0</price>
+    <quantity>0</quantity>
+  </Product>
+  <Product>
+    <id>5700</id>
+    <name>ספה פינתית</name>
+    <category>LivingRoomFurniture</category>
+    <price>7000</price>
+    <quantity>654</quantity>
+  </Product>
+</ArrayOfProduct>
